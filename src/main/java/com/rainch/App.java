@@ -12,6 +12,7 @@ public class App {
         System.out.println( "Hello Git hot-fix!" );
         System.out.println( "Hello Git master test" );
         System.out.println( "Hello Git hot-fix test!" );
+        System.out.println( "Git push" );
         System.out.println("你好，Git！");
     }
 }
