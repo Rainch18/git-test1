@@ -14,6 +14,7 @@ public class App {
         System.out.println( "Hello Git hot-fix test!" );
         System.out.println( "Git push" );
         System.out.println( "Git pull" );
+        System.out.println( "Gitee pull" );
         System.out.println("你好，Git！");
     }
 }
